@@ -2,6 +2,7 @@
 Analysis of kickstarter campaigns for a client looking to start a campaign for a play.
 
 ### Challenge
+Conduct an analysis to determine whether the length of a campaign contributes to its ultimate success or failure.
 
 #### Analysis
 Our graph shows that the best months to launch a campaign is in the beginning of summer (May or June).  Campaigns started at the end of the year tend to have poor rates of success. 
